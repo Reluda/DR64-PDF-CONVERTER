@@ -28,10 +28,14 @@ How to Use
 
 Important Note
 
-PDF files can have varying degrees of quality, and the text extracted may be substantially different if there has been any compression applied to the file previously. The accuracy of the conversion can be affected by the quality and content of the original PDF.
+PDF files can have varying degrees of quality, and the text extracted may be substantially different if there has been any compression applied to the file previously. The accuracy of the conversion can be affected by the quality and content of the original PDF. Further to this, a single .exe file was too big to upload to github (Approx 50mb), If you would like the single .exe file. let me know and I will send you a google drive link.
+
+
 Contact
 
 For any queries, please contact: RELUDA64@gmail.com
+
+
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
